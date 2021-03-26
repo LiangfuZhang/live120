@@ -1,0 +1,23 @@
+{
+    "name": "96Gary/Live",
+    "description": "环信PHPsdk",
+    "authors": [
+        {
+            "name": "Gary",
+            "email": "96Gary@gmail.com"
+        }
+    ],
+    "require": {
+        "hanson/foundation-sdk": "^3.0",
+        "ext-json": ">=1.0",
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gary\\Live\\": "src"
+        }
+    },
+    "require-dev": {
+        "illuminate/support": "5.5"
+    }
+}
