@@ -1,10 +1,10 @@
 {
-    "name": "96Gary/Live",
+    "name": "gary/Live",
     "description": "环信PHPsdk",
     "authors": [
         {
             "name": "Gary",
-            "email": "96Gary@gmail.com"
+            "email": "zhangliangfu01@163.com"
         }
     ],
     "require": {
